@@ -1,6 +1,6 @@
 # INST311_Mental_Health_Assignemnt
 
-This is an assignment for the University of Maryland "Statistics for Information Science Course". 
+This is an assignment for the University of Maryland's "Statistics for Information Science Course". 
 
 ## Description
 
