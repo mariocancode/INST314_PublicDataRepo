@@ -1,4 +1,4 @@
-# INST311_Mental_Health_Assignemnt
+# INST314_Mental_Health_Analysis
 
 This is an assignment for the University of Maryland's "Statistics for Information Science Course". 
 
